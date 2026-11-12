@@ -397,7 +397,7 @@ Trois principes guident l'organisation des organismes publics de l'enseignement,
 
 1. DEPP, Note d'information n° 26.40, « PISA 2025 : les acquis des élèves de 15 ans en compréhension de l'écrit et en culture mathématique en baisse en France et dans l'OCDE », septembre 2026 — https://www.education.gouv.fr/sites/default/files/document/depp-ni-2026-40pisa-mathspdf-520231.pdf
 2. Cour des comptes, « L'enseignement privé sous contrat », rapport public thématique, juin 2023 — https://www.vie-publique.fr/files/rapport/pdf/289657.pdf
-3. DEPP, Document de travail n° 2024-E04, F. Murat, « Les inégalités sociales de compétences depuis 35 ans », juin 2024 — https://education.gouv.fr/media/195420/download
+3. DEPP, Document de travail n° 2024-E04, F. Murat, « Les inégalités sociales de compétences depuis 35 ans », juin 2024 — https://www.education.gouv.fr/sites/default/files/document/les-in-galit-s-sociales-de-comp-tences-depuis-35-ans-402009.pdf
 4. Ministère de l'Enseignement supérieur, « Bilan de la procédure d'admission Parcoursup 2026 », octobre 2026 — https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2026-10/Bilan%20de%20la%20proc%C3%A9dure%20d%27admission%20Parcoursup%202026.pdf
 5. DEPP, Note d'information n° 26.09, « Projections d'effectifs scolaires à horizon 2035 », avril 2026 — https://www.education.gouv.fr/sites/default/files/document/education-nationale-depp-ni-2026-09-pdf-508061.pdf
 6. OCDE, « Regards sur l'éducation 2026 », 29 septembre 2026 — https://www.oecd.org/fr/publications/regards-sur-l-education-2026_cba0b622-fr.html
