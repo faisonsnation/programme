@@ -6,7 +6,9 @@ Le site [faisonsnation.com](https://www.faisonsnation.com/programme/) affiche la
 
 ## Fiches publiées
 
-Aucune fiche n'est encore publiée.
+| Fiche | Version | Date | Sur le site | Historique |
+| --- | --- | --- | --- | --- |
+| [Apprendre](fiches/apprendre.md) | 1 | 8 novembre 2026 | [Lire](https://www.faisonsnation.com/programme/apprendre/) | [Toutes les versions](https://github.com/faisonsnation/programme/commits/main/fiches/apprendre.md) |
 
 ## Lire et comparer les versions
 
